@@ -64,7 +64,7 @@ Setiap modul antarmuka pada GUI **treasIER** dirancang terhubung langsung dengan
 * **Bahasa Pemrograman:** C++ 
 * **Framework GUI:** Qt Widgets 
 * **IDE Terkait:** Qt Creator
-* **Sistem Build:** CMake
+* **Sistem Build:** QMake
 
 ---
 
