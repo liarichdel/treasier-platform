@@ -19,7 +19,7 @@ Dengan arsitektur *Non-STL Engine*, aplikasi ini memastikan manajemen pointer da
 
 ---
 
-## 💡 Penjelasan Fitur & Runtime Algoritma
+## Penjelasan Fitur & Runtime Algoritma
 
 Setiap modul antarmuka pada GUI **treasIER** dirancang terhubung langsung dengan mesin algoritma spesifik di latar belakang yang aktif secara instan berdasarkan interaksi pengguna:
 
@@ -61,10 +61,10 @@ Setiap modul antarmuka pada GUI **treasIER** dirancang terhubung langsung dengan
 
 ## Teknologi yang Digunakan
 
-* **Bahasa Pemrograman:** C++ (Standar C++11 atau lebih baru)
-* **Framework GUI:** Qt Widgets (Qt 5 / Qt 6)
-* **IDE Terkait:** Qt Creator / VS Code dengan ekstensi Qt
-* **Sistem Build:** CMake / QMake
+* **Bahasa Pemrograman:** C++ 
+* **Framework GUI:** Qt Widgets 
+* **IDE Terkait:** Qt Creator
+* **Sistem Build:** CMake
 
 ---
 
